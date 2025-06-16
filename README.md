@@ -26,7 +26,7 @@ I am a **Frontend Developer** currently working at **Wan Buffer Services**. With
 - Standalone(Desktop) Application
   
 #### 📫 How to reach me:
-- Email: [sunasarahusenahmad07@gmail.com](mailto:sunasarahusenahmad07@gmail.com)
+- Email: [husen.s@wanbuffer.in](mailto:husen.s@wanbuffer.in)
 - LinkedIn: [Sunasara Husenahmad](https://www.linkedin.com/in/sunasara-husenahmad-686897250/)
 
 #### ⚡ Fun fact: 
