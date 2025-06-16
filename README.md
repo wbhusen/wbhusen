@@ -8,7 +8,7 @@
 
 ### <picture><img src = "./assets/mdImages/about_me.gif" width = 30px></picture> About Me
 
-I am a **Full Stack Developer** currently working at **Wan Buffer Services**. With a passion for coding and a knack for creating dynamic web, mobile & Desktop applications, I thrive on turning ideas into reality.
+I am a **Frontend Developer** currently working at **Wan Buffer Services**. With a passion for coding and a knack for creating dynamic web, mobile & Desktop applications, I thrive on turning ideas into reality.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
